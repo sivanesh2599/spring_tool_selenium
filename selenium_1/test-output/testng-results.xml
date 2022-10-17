@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-17T07:11:04Z" name="Default suite" finished-at="2022-10-17T07:11:34Z" duration-ms="30257">
+    <groups>
+    </groups>
+    <test started-at="2022-10-17T07:11:04Z" name="Default test" finished-at="2022-10-17T07:11:34Z" duration-ms="30257">
+      <class name="maven.testng">
+        <test-method is-config="true" signature="bt()[pri:0, instance:maven.testng@be68757]" started-at="2022-10-17T12:41:04Z" name="bt" finished-at="2022-10-17T12:41:26Z" duration-ms="22970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method signature="windowhandle()[pri:0, instance:maven.testng@be68757]" started-at="2022-10-17T12:41:27Z" name="windowhandle" finished-at="2022-10-17T12:41:34Z" duration-ms="7256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowhandle -->
+      </class> <!-- maven.testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
